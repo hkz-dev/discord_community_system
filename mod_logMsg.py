@@ -1,0 +1,5 @@
+okend="正常終了 return"
+ngend="処理失敗終了 return"
+dbconend="db接続終了 return"
+rt="return True"
+rf="return False"
